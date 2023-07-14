@@ -22,6 +22,10 @@ function Intro() {
   return (
     <div>
       <h1>Bradley Murrell</h1>
+      <p>
+        Junior Full Stack Developer with a diverse life and technical
+        experience. I look forward to building a career as a developer.
+      </p>
     </div>
   );
 }

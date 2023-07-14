@@ -14,9 +14,17 @@ function App() {
   );
 }
 
-function Avatar() {}
+function Avatar() {
+  return <img className="avatar" src="myAvatar.jpeg" alt="Bradley Murrell" />;
+}
 
-function Intro() {}
+function Intro() {
+  return (
+    <div>
+      <h1>Bradley Murrell</h1>
+    </div>
+  );
+}
 
 function SkillList() {}
 
